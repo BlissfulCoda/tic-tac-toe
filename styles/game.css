@@ -13,6 +13,7 @@
     box-shadow: 0 10px 8px rgba(0,0,0,0.2);
     color: #fff;
     border-radius: .2rem;
+    display: none;
 }
 
 #game-over h2 {

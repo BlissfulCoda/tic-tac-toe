@@ -29,8 +29,9 @@ body {
 }
 
 .btn:hover {
-    background-color: rgb(40, 41, 107);
-    border-color: rgb(40, 41, 110);
+    background-color: rgba(114, 2, 158, 0.959);
+    border-color: rgba(114, 2, 158, 0.959);
+    color: #fff;
 }
 
 .btn-alt:hover {
